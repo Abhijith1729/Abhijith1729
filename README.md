@@ -1,44 +1,110 @@
-# Hi, I'm Abhijith Vyshnava👋
+# Hi, I'm Abhijith 👋
 
 🎓 Computer Science Student  
-💻 Interested in Full Stack Development, Machine Learning, and Web Development  
-🚀 Building real-world projects and improving my coding skills  
+💻 Aspiring Software Developer | Full Stack | Machine Learning  
+🚀 Focused on building real-world projects and improving problem-solving skills  
 
 ---
 
-## 🔥 Projects
+## 🚀 About Me
+
+- Strong interest in Software Development and Machine Learning
+- Experienced in building web applications and ML-based prediction systems
+- Currently improving skills in React, Python, and system design
+- Actively building projects to strengthen practical development skills
+
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React
+- Streamlit
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Docker (basic)
+- GitHub Pages
+
+---
+
+## 🔥 Featured Projects
 
 ### 🫀 Cardiovascular Disease Prediction System
-- Machine Learning project using ensemble techniques
-- Built using Python, Streamlit
-- Predicts cardiovascular disease risk based on patient data
-- GitHub: https://github.com/Abhijith1729/cardiovascular-disease-prediction-using-ensemble-techniques
+Machine Learning system that predicts cardiovascular disease risk using ensemble techniques.
+
+**Tech Stack:** Python, Streamlit, Machine Learning  
+**Features:**
+- Predicts disease risk based on medical inputs
+- Interactive web interface
+- Ensemble ML models for improved accuracy  
+
+**GitHub:**  
+https://github.com/Abhijith1729/cardiovascular-disease-prediction-using-ensemble-techniques
+
+---
+
+### 🌐 Portfolio Website (React)
+Personal portfolio website to showcase projects, skills, and contact information.
+
+**Tech Stack:** React, JavaScript, CSS  
+
+**GitHub:**  
+https://github.com/Abhijith1729/portfolio-react
 
 ---
 
 ### 🧮 Modern Calculator Web App
-- Responsive calculator using HTML, CSS, JavaScript
-- Clean UI and modern design
-- GitHub: https://github.com/Abhijith1729/modern-calculator-js
+Modern and responsive calculator with clean UI.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+**Features:**
+- Responsive design
+- Clean interface
+- Fast performance
+
+**GitHub:**  
+https://github.com/Abhijith1729/modern-calculator-js
+
+**Live Demo:**  
+https://abhijith1729.github.io/modern-calculator-js/
 
 ---
 
-### 🌐 Portfolio Website
-- Personal portfolio built using React
-- Showcases projects and skills
-- GitHub: https://github.com/Abhijith1729/portfolio-react
+## 📈 Current Focus
+
+- Building full stack web applications
+- Improving data structures and algorithms
+- Learning advanced React development
+- Strengthening backend development skills
 
 ---
 
-## 🛠 Skills
+## 🎯 Career Goal
 
-- Languages: Python, JavaScript, HTML, CSS
-- Frameworks: React, Streamlit
-- Tools: Git, GitHub, VS Code
+To become a skilled software developer and contribute to real-world applications that solve meaningful problems.
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - Email: abhijithvyshnava@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abhijith-vyshnava-03b49b25a/
+
+
+---
+
+## 💡 Fun Fact
+
+I believe in learning by building real projects, not just watching tutorials.
+
+
