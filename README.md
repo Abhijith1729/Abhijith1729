@@ -1,17 +1,18 @@
 # Hi, I'm Abhijith 👋
 
 🎓 Computer Science Student  
-💻 Aspiring Software Developer | Full Stack | Machine Learning  
-🚀 Focused on building real-world projects and improving problem-solving skills  
+💻 Software Developer focused on Web Applications and Machine Learning  
+🚀 Building real-world applications using React, Python, and ML  
 
 ---
 
 ## 🚀 About Me
 
-- Strong interest in Software Development and Machine Learning
-- Experienced in building web applications and ML-based prediction systems
-- Currently improving skills in React, Python, and system design
-- Actively building projects to strengthen practical development skills
+- Built multiple real-world projects using React and Python
+- Developed ML-based prediction system using ensemble techniques
+- Experience building interactive web apps using React and Streamlit
+- Strong foundation in frontend development and ML integration
+- Actively improving backend and full-stack development skills
 
 ---
 
@@ -28,34 +29,62 @@
 - Streamlit
 
 ### Tools & Technologies
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
-- Docker (basic)
 - GitHub Pages
+- Docker (basic)
+- Vite
 
 ---
 
 ## 🔥 Featured Projects
 
+---
+
 ### 🫀 Cardiovascular Disease Prediction System
-Machine Learning system that predicts cardiovascular disease risk using ensemble techniques.
+
+Machine Learning web application that predicts cardiovascular disease risk using ensemble models.
 
 **Tech Stack:** Python, Streamlit, Machine Learning  
-**Features:**
-- Predicts disease risk based on medical inputs
-- Interactive web interface
-- Ensemble ML models for improved accuracy  
+
+**Key Highlights:**
+- Built ML prediction system using ensemble techniques
+- Developed interactive UI using Streamlit
+- Processes user input and generates real-time predictions
+- Applied data preprocessing and model integration
 
 **GitHub:**  
 https://github.com/Abhijith1729/cardiovascular-disease-prediction-using-ensemble-techniques
 
 ---
 
-### 🌐 Portfolio Website (React)
-Personal portfolio website to showcase projects, skills, and contact information.
+### 🤖 AI Career Advisor using Generative AI
 
-**Tech Stack:** React, JavaScript, CSS  
+Web application that provides AI-powered career guidance based on user input.
+
+**Tech Stack:** Python, Streamlit, Generative AI  
+
+**Key Highlights:**
+- Built AI-based career recommendation system
+- Integrated Generative AI to generate career suggestions
+- Developed interactive web interface using Streamlit
+- Handles user input and generates structured output
+
+**GitHub:**  
+https://github.com/Abhijith1729/ai-career-advisor
+
+---
+
+### 🌐 Portfolio Website (React)
+
+Personal portfolio built using React to showcase projects and skills.
+
+**Tech Stack:** React, JavaScript, CSS, Vite  
+
+**Key Highlights:**
+- Built responsive UI using React
+- Component-based architecture
+- Deployed using GitHub Pages
 
 **GitHub:**  
 https://github.com/Abhijith1729/portfolio-react
@@ -63,48 +92,30 @@ https://github.com/Abhijith1729/portfolio-react
 ---
 
 ### 🧮 Modern Calculator Web App
-Modern and responsive calculator with clean UI.
+
+Responsive calculator web application.
 
 **Tech Stack:** HTML, CSS, JavaScript  
 
-**Features:**
-- Responsive design
-- Clean interface
-- Fast performance
+**Live Demo:**  
+https://abhijith1729.github.io/modern-calculator-js/
 
 **GitHub:**  
 https://github.com/Abhijith1729/modern-calculator-js
-
-**Live Demo:**  
-https://abhijith1729.github.io/modern-calculator-js/
 
 ---
 
 ## 📈 Current Focus
 
-- Building full stack web applications
-- Improving data structures and algorithms
-- Learning advanced React development
-- Strengthening backend development skills
+- Full Stack Development
+- React Development
+- Backend Development
+- Data Structures and Algorithms
 
 ---
 
-## 🎯 Career Goal
+## 📫 Contact
 
-To become a skilled software developer and contribute to real-world applications that solve meaningful problems.
-
----
-
-## 📫 Contact Me
-
-- Email: abhijithvyshnava@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abhijith-vyshnava-03b49b25a/
-
-
----
-
-## 💡 Fun Fact
-
-I believe in learning by building real projects, not just watching tutorials.
-
-
+Email: abhijithvyshnava@gmail.com  
+LinkedIn:  
+https://www.linkedin.com/in/abhijith-vyshnava-03b49b25a/
