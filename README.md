@@ -1,141 +1,112 @@
 # Hi, I'm Abhijith 👋
 
-🎓 Computer Science Student
-💻 Software Developer building AI-powered and full-stack web applications
-🚀 Experienced in developing and deploying real-world applications using Python, React, and Large Language Models
+💻 Computer Science Student | Software Developer
+🚀 Building AI-powered and full-stack applications
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* Built and deployed AI-powered applications using Generative AI APIs
-* Developed machine learning prediction systems using ensemble techniques
-* Experienced in building interactive web applications using Streamlit and React
-* Integrated external APIs and deployed production-ready applications
-* Strong foundation in Python, frontend development, and ML integration
+* Computer Science student passionate about **AI and software development**
+* Building **AI-powered applications using Generative AI and LLM APIs**
+* Developing **machine learning prediction systems**
+* Interested in **Full Stack Development and Backend Systems**
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
-## Programming Languages
+**Languages**
 
 * Python
 * JavaScript
 * HTML
 * CSS
 
-## Frameworks & Libraries
+**Frameworks & Tools**
 
 * React
 * Streamlit
+* Vite
+* Git & GitHub
+* VS Code
+* Docker (basic)
 
-## AI & Machine Learning
+**AI & Machine Learning**
 
 * Generative AI
 * Large Language Models (LLMs)
 * OpenRouter API
 * Machine Learning
 
-## Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* GitHub Pages
-* Streamlit Cloud
-* API Integration
-* Docker (basic)
-* Vite
-
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
----
+### 🤖 AI Career Advisor (Generative AI)
 
-## 🤖 AI Career Advisor using Generative AI
+AI-powered web app that suggests career paths, skills, and learning roadmaps using LLMs.
 
-AI-powered career advisor web application that generates career roles, required skills, and learning roadmaps based on user input using Large Language Models.
+**Tech:** Python, Streamlit, OpenRouter API, GPT-3.5
 
-**Tech Stack:** Python, Streamlit, OpenRouter API, GPT-3.5-Turbo
-
-**Key Highlights:**
-
-* Built production-ready AI web application using GPT-3.5 API
-* Integrated OpenRouter API for real-time AI responses
-* Developed interactive web interface using Streamlit
-* Implemented prompt-based career guidance generation
-* Deployed live application accessible publicly
-
-**Live Demo:**
+Live Demo
 https://ai-career-advisor-g3g6ua83aufmpo8mnzjmcn.streamlit.app
 
-**GitHub:**
+GitHub
 https://github.com/Abhijith1729/ai-career-advisor
 
 ---
 
-## 🫀 Cardiovascular Disease Prediction System
+### 🫀 Cardiovascular Disease Prediction System
 
-Machine Learning web application that predicts cardiovascular disease risk using ensemble models.
+Machine learning web application that predicts cardiovascular disease risk using ensemble models.
 
-**Tech Stack:** Python, Streamlit, Machine Learning
+**Tech:** Python, Machine Learning, Streamlit
 
-**Key Highlights:**
-
-* Built ML prediction system using ensemble learning techniques
-* Developed interactive UI using Streamlit
-* Implemented data preprocessing and model integration
-* Generates real-time prediction results
-
-**GitHub:**
+GitHub
 https://github.com/Abhijith1729/cardiovascular-disease-prediction-using-ensemble-techniques
 
 ---
 
-## 🌐 Portfolio Website (React)
+### 🌐 Portfolio Website (React)
 
-Personal portfolio built using React to showcase projects and skills.
+Personal portfolio website showcasing my projects and skills.
 
-**Tech Stack:** React, JavaScript, CSS, Vite
+**Tech:** React, JavaScript, CSS, Vite
 
-**Key Highlights:**
+Live Site
+https://abhijith1729.github.io/portfolio-react/
 
-* Built responsive UI using React
-* Used component-based architecture
-* Deployed using GitHub Pages
-
-**GitHub:**
+GitHub
 https://github.com/Abhijith1729/portfolio-react
 
 ---
 
-## 🧮 Modern Calculator Web App
+### 🧮 Modern Calculator Web App
 
-Responsive calculator web application.
+Responsive calculator built using JavaScript.
 
-**Tech Stack:** HTML, CSS, JavaScript
-
-**Live Demo:**
+Live Demo
 https://abhijith1729.github.io/modern-calculator-js/
 
-**GitHub:**
+GitHub
 https://github.com/Abhijith1729/modern-calculator-js
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
 * Full Stack Development
 * Generative AI Applications
 * Backend Development
-* Data Structures and Algorithms
+* Data Structures & Algorithms
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-Email: [abhijithvyshnava@gmail.com](mailto:abhijithvyshnava@gmail.com)
+📧 Email
+[abhijithvyshnava@gmail.com](mailto:abhijithvyshnava@gmail.com)
 
-LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/abhijith-vyshnava-03b49b25a/
