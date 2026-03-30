@@ -120,10 +120,8 @@ https://github.com/Abhijith1729/modern-calculator-js
 https://www.linkedin.com/in/abhijith-vyshnava-03b49b25a/
 
 ---
-
-
 ## 📊 GitHub Stats
 
-![Abhijith GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijith1729&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijith1729&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith1729&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith1729&layout=compact)
